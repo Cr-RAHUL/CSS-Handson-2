@@ -1,0 +1,231 @@
+.box1{
+    font-style: italic;
+    font-size: 25px;
+    font-weight: bolder;
+    border: 8px solid red;
+    height: 148px;
+    width: 361px;
+    color: white;
+    border-radius: 30px;
+    background-color: black;
+    text-align: center;
+    padding-top: 21px;
+    padding-left: 25px;
+    box-sizing: border-box;
+    margin-left: 200px;
+   
+    
+}
+.box2{
+
+    font-style: italic;
+    font-size: 25px;
+    font-weight: bolder;
+    border: 8px solid red;
+    height: 87px;
+    width: 446px;
+    color: white;
+    border-radius: 39px;
+    background-color: black;
+    text-align: center;
+    padding-top: 27px;
+    padding-left: 34px;
+    box-sizing: border-box;
+    margin-left: 200px;
+    position: relative;
+    top: -162px;
+    left: 220px;
+   
+}
+.box3{
+
+    font-style: italic;
+    font-size: 20px;
+    font-weight: bolder;
+    border: 8px solid red;
+    height: 147px;
+    width: 350px;
+    color: white;
+    border-radius: 30px;
+    background-color: black;
+    text-align: center;
+    padding-top: -4px;
+    box-sizing: border-box;
+    margin-left: 350px;
+    position: relative;
+    top: -270px;
+    left: 615px;
+    
+
+}
+.box4{
+    width: 340px;
+    color: red;
+    border: 6px;
+    border-style: dashed;
+    background-color: white;
+    text-align:center;
+    position: relative;
+    top: -211px;
+    left: 719px;
+}
+.box5{
+    border: 7px solid darkslategray;
+    height: 370px;
+    width: 370px;
+    border-radius: 50%;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: bolder;
+    padding-top: 57px;
+    box-sizing: border-box;
+    background-color: darkcyan;
+    position: relative;
+    top: -681px;
+    left: 249px;
+}
+.box6{
+    font-style: italic;
+    font-size: 28px;
+    font-weight: bolder;
+    border: 8px solid red;
+    height: 93px;
+    width: 457px;
+    color: white;
+    border-radius: 43px;
+    background-color: black;
+    text-align: center;
+    padding-top: -2px;
+    padding-left: 0px;
+    box-sizing: border-box;
+    margin-left: 200px;
+    position: relative;
+    top: -550px;
+    left: 295px;
+}
+
+
+.box7{
+    font-size: 17px;
+    font-weight: bolder;
+    border: 3px solid darkgreen;
+    height: 274px;
+    width: 323px;
+    color: white;
+    border-radius: 48px;
+    background-color: aqua;
+    text-align: center;
+    padding-top: -1px;
+    box-sizing: border-box;
+    margin-left: 350px;
+    position: relative;
+    top: -490px;
+    left: -200px;
+    color: darkblue;
+}
+.box8{
+    font-size: 17px;
+    font-weight: bolder;
+    border: 3px solid darkgreen;
+    height: 274px;
+    width: 323px;
+    color: white;
+    border-radius: 48px;
+    background-color: aqua;
+    text-align: center;
+    padding-top: -1px;
+    box-sizing: border-box;
+    margin-left: 350px;
+    position: relative;
+    top: -764px;
+    left: 218px;
+    color: darkblue;
+}
+.box9{
+    font-size: 17px;
+    font-weight: bolder;
+    border: 3px solid darkgreen;
+    height: 274px;
+    width: 323px;
+    color: white;
+    border-radius: 48px;
+    background-color: aqua;
+    text-align: center;
+    padding-top: -1px;
+    box-sizing: border-box;
+    margin-left: 350px;
+    position: relative;
+    top: -1037px;
+    left: 641px;
+    color: darkblue;
+}
+.box10{
+    font-size: 17px;
+    font-weight: bolder;
+    border: 3px solid darkgreen;
+    height: 274px;
+    width: 323px;
+    color: white;
+    border-radius: 48px;
+    background-color: aqua;
+    text-align: center;
+    padding-top: -1px;
+    box-sizing: border-box;
+    margin-left: 350px;
+    position: relative;
+    top: -978px;
+    left: -203px;
+    color: darkblue;
+}
+.box11{
+    font-size: 17px;
+    font-weight: bolder;
+    border: 3px solid darkgreen;
+    height: 274px;
+    width: 323px;
+    color: white;
+    border-radius: 48px;
+    background-color: aqua;
+    text-align: center;
+    padding-top: -1px;
+    box-sizing: border-box;
+    margin-left: 350px;
+    position: relative;
+    top: -1252px;
+    left: 216px;
+    color: darkblue;
+}
+.box12{
+    font-size: 17px;
+    font-weight: bolder;
+    border: 3px solid darkgreen;
+    height: 318px;
+    width: 323px;
+    color: white;
+    border-radius: 48px;
+    background-color: aqua;
+    text-align: center;
+    padding-top: 5px;
+    box-sizing: border-box;
+    margin-left: 350px;
+    position: relative;
+    top: -1526px;
+    left: 651px;
+    color: darkblue;
+    padding-left: 12px;
+}
+.img{
+    padding:0px;
+    margin:0px;
+    height: 250vh;
+    width: 97.6vw;
+    background-image: url(./Lightblue.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+body{ 
+    border: groove 10px;
+    border-color: greenyellow;   
+}
